@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/opscode/omnibus-software.git
-  revision: 918147777e418192a77172160f0ef445285cd45b
+  revision: 2369b8f09a3a839b0a63899716d1872c60ca92f8
+  branch: ma/libsodium
   specs:
     omnibus-software (4.0.0)
 
