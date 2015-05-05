@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'omnibus', github: 'opscode/omnibus'
 gem 'omnibus-software', github: 'opscode/omnibus-software', :branch=>'ma/libsodium'
-#gem 'omnibus-software', :path => "../omnibus-software", :
+#gem 'omnibus-software', :path => "../omnibus-software"
 
 # This development group is installed by default when you run `bundle install`,
 # but if you are using Omnibus in a CI-based infrastructure, you do not need
