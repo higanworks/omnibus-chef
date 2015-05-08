@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'omnibus', github: 'opscode/omnibus'
-gem 'omnibus-software', github: 'opscode/omnibus-software', :branch=>'ma/libsodium'
+gem 'omnibus-software', github: 'opscode/omnibus-software', :branch=>'ma/libsodium-rebase'
 #gem 'omnibus-software', :path => "../omnibus-software"
 
 # This development group is installed by default when you run `bundle install`,
